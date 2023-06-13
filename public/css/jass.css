@@ -19,6 +19,9 @@ html {
  */
 body {
   margin: 0;
+  background-image: ("../image/forest.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;  
 }
 
 /**
