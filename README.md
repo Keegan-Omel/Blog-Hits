@@ -9,7 +9,7 @@ Handlebars.js
 Sequelize
 express-session
 
-The blog site is easy to use and navigate. Developers can sign in to create their own blog posts, or they can read blog posts from other developers. Blog posts can be categorized and tagged, making it easy to find relevant content.
+The blog site is easy to use and navigate. Developers can sign in to create their own blog posts, or they can read blog posts from other developers. 
 
 Blog-Hits is a great way for developers to share their knowledge and expertise with the world. It is also a great way for developers to learn from each other. If you are a developer, I encourage you to check out Blog-Hits.
 
