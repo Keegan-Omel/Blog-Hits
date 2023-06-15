@@ -13,13 +13,13 @@ The blog site is easy to use and navigate. Developers can sign in to create thei
 
 Blog-Hits is a great way for developers to share their knowledge and expertise with the world. It is also a great way for developers to learn from each other. If you are a developer, I encourage you to check out Blog-Hits.
 
-![Screenshot](./public/image/screencapture-localhost-3001-2023-06-13-19_29_17.png)
+![Screenshot](./public/image/screencapture-localhost-3001-2023-06-15-01_45_31.png)
 
-![Screenshot](./public/image/screencapture-localhost-3001-login-2023-06-13-19_29_38.png)
+![Screenshot](./public/image/screencapture-localhost-3001-login-2023-06-15-01_46_06.png)
 
-![Screenshot](./public/image/screencapture-localhost-3001-profile-2023-06-13-19_50_32.png)
+![Screenshot](./public/image/screencapture-localhost-3001-profile-2023-06-15-01_45_06.png)
 
-![Screenshot](./public/image/screencapture-localhost-3001-project-7-2023-06-13-19_30_20.png)
+![Screenshot](./public/image/screencapture-localhost-3001-project-3-2023-06-15-01_44_43.png)
 
 ## Installation
 
