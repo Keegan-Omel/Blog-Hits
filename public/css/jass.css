@@ -19,7 +19,7 @@ html {
  */
 body {
   margin: 0;
-  background-image: ("../image/forest.jpeg");
+  background-image: url(../image/forest.jpeg);
   background-repeat: no-repeat;
   background-size: cover;  
 }
@@ -146,6 +146,7 @@ img {
   margin-top: 15px;
   margin-right: 30px;
 }
+
 
 /* Forms
    ========================================================================== */
@@ -363,7 +364,7 @@ body {
   padding: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
   font-size: 16px;
-  color: #67351af8;
+  color: #000000f8;
 }
 
 h1,
