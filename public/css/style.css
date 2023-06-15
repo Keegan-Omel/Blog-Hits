@@ -5,11 +5,11 @@ header, .project:not(:last-child) {
 
 
 .no-button {
-  background: none;
-  border: none;
+  background-color: rgb(255, 87, 57);
+  border: solid rgb(3, 95, 80);
   padding: 0;
   cursor: pointer;
-  color: #c8c10b;
+  color: #5d0808;
   text-decoration: none;
   font-size: 100%;
 }
