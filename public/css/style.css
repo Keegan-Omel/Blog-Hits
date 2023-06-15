@@ -31,3 +31,8 @@ header, .project:not(:last-child) {
   background-size: cover;
 
 } */
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+}
